@@ -1,0 +1,2 @@
+# DiceClass
+roll, reset, numRolls
